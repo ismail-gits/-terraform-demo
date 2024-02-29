@@ -1,8 +1,8 @@
 # providers
 # provider "aws" {
     # region = "ap-south-1"
-    # access_key = "AKIAYS2NSMENPLPIOJFH"
-    # secret_key = "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"
+    # access_key = 
+    # secret_key = 
 # }
 
 provider "aws" {}
